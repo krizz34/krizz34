@@ -21,7 +21,7 @@
 <br />
 
 ### About Me 🚀
-<bold><></bold> I’m a Full stack developer with a bachelor's degree in Computer Science and Engineering. </br>
+<b><></b> I’m a Full stack developer with a bachelor's degree in Computer Science and Engineering. </br>
 <> I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
