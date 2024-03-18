@@ -21,8 +21,8 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Full stack developer with a bachelor's degree in Computer Science and Engineering. </br>
-👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
+<bold><></bold> I’m a Full stack developer with a bachelor's degree in Computer Science and Engineering. </br>
+<> I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
 - [Intern @ MashpStack](https://www.mashupstack.com/) - (Aug'23-Present)
