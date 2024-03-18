@@ -20,11 +20,11 @@
 
 <br />
 
-### About Me 🚀
+### About Me 
 <> I’m a Full stack developer with a bachelor's degree in Computer Science and Engineering. </br>
 <> I am passionate about Web Dev & I enjoy learning new things. </br>
 
-### My Experiences 🙌
+### My Experiences 
 - [Intern @ MashpStack](https://www.mashupstack.com/) - (Aug'23-Present)
 
 <!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
