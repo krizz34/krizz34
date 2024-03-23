@@ -27,25 +27,30 @@
 ### My Experiences 
 - [Intern @ MashpStack](https://www.mashupstack.com/) - (Aug'23-Present)
 
-<!--![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
+### Tech Stack with In-hand Experience
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" title="Jinja" alt="Jinja" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/OpenJSX/logo/blob/master/jsx.png" title="JSX" alt="JSX" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/laravel-3.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/json/json-icon.svg" title="Json" alt="JSON" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" title="XAMPP" alt="XAMPP" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-icon.svg" title="phpMyAdmin" alt="phpMyAdmin" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div><br><br>
+
 ![Ananda's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krizz34&layout=compact&langs_count=8&hide_border=true)
 <br />
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
