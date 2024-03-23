@@ -5,18 +5,13 @@
 <a href="https://www.linkedin.com/in/ananda-krishna-p/">
   <img align="left" width="24px" src="https://cdn.simpleicons.org/linkedin"  />
 </a>
-<!-- <a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
-</a> -->
 <a href="mailto:panandakrishna@gmail.com">
   <img align="left" width="26px" src="https://cdn.simpleicons.org/gmail" />
 </a>
-<!-- <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/youtube" />
+<!-- <a href="https://twitter.com/the3amChaiGuy">
+  <img align="left" width="26px" src="https://cdn.simpleicons.org/twitter" />
 </a> -->
-<!-- <a href="https://isupersky.medium.com/">
-  <img align="left" width="26px" src="https://cdn.simpleicons.org/medium/777777" />
-</a> -->
+
 
 <br />
 
@@ -50,7 +45,7 @@
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" title="Vercel" alt="Vercel" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-</div><br><br>
+</div><br/><br/>
 
 ![Ananda's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krizz34&layout=compact&langs_count=8&hide_border=true)
 <br />
