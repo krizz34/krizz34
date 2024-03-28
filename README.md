@@ -50,5 +50,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div><br/><br/>
 
-![Ananda's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krizz34&layout=compact&langs_count=8&hide_border=true)
+![My Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=krizz34&layout=compact&langs_count=8&hide_border=true)
+
 <br />
