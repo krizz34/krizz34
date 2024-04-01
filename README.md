@@ -30,7 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" title="Spring-Boot" alt="Spring-Boot" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" title="Maven" alt="Maven" width="40" height="40"/>&nbsp;
+<!-- <img src="https://github.com/gilbarbara/logos/blob/main/logos/thymeleaf-icon.svg" title="Thymeleaf" alt="Thymeleaf" width="40" height="40"/>&nbsp; -->
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://www.vectorlogo.zone/logos/pocoo_jinja/pocoo_jinja-icon.svg" title="Jinja" alt="Jinja" width="40" height="40"/>&nbsp;
