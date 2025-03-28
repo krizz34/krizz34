@@ -20,7 +20,8 @@
 <> I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 
-- [Intern @ MashpStack](https://www.mashupstack.com/) - (Aug'23-Present)
+- [Intern @ MashpStack](https://www.mashupstack.com/) - (Aug'23 - April'24)
+- [Associate Software Engineer @ Ospyn](https://www.ospyn.com/) - (April'24 - Present)
 
 ### Tech Stack with In-hand Experience
 <div>
